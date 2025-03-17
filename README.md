@@ -1,14 +1,11 @@
-## Olá 👋
+## Olá, pessoal! 👋
 
-**btomio/btomio** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
-
-Aqui estão algumas ideias para você começar:
+**Eu sou a Bruna Tomio 😘😁
+**
+Um pouco sobre mim:
 
 - 🌱 Atualmente estou aprendendo dados, dados e mais dados 
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
+- 👯 Estou procurando colaborar em projetos, cases e serviço voluntário na área
 - 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
 -->
